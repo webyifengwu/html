@@ -1,0 +1,28 @@
+body,dl,dt,dd,h1,h2,h3,h4,h5,h6
+{
+    margin: 0;
+}
+ul,ol
+{
+    /* height: 0; */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+img
+{
+    border: none;
+}
+button,input
+{
+    outline: none;
+}
+a{
+    text-decoration: none;
+}
+p{
+    /* margin-top: 0; */
+    height: 0px;
+    padding: 0;
+}
+
